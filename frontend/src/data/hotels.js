@@ -1,17 +1,5 @@
 const hotels = [
   {
-    id: 1,
-    title: "Grand Chennai Hotel",
-    description:
-      "A comfortable hotel located in the heart of Chennai with modern rooms and excellent facilities.",
-    image:
-   "/images/hotel7.jpg",
-    latitude: 13.0827,
-    longitude: 80.2707,
-    price: 3500
-  },
-
-  {
     id: 2,
     title: "Ocean View Resort",
     description:
